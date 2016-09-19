@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>edu.utah.scl.SIPFix</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/SIPFix.sh</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>LaunchOnlyOnce</key>
+	<true/>
+	<key>StandardOutPath</key>
+	<string>/var/log/SIPFix.log</string>
+	<key>StandardErrorPath</key>
+	<string>/var/log/SIPFix.error.log</string>
+</dict>
+</plist>
