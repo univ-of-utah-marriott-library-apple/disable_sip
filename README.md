@@ -1,5 +1,5 @@
 # disable_sip
-Scripts that can be used in the recovery partition to automatically disable SIP.
+This script is used in the recovery partition to automatically disable SIP.
 ## Contents
 
 * [Download](#download) - get the script
