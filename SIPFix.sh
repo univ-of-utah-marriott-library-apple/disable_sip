@@ -17,7 +17,7 @@
 
 echo "SIP Fix Starting"
 
-csrutil disable
+/usr/bin/csrutil disable
 
 echo "SIP Fix Finished"
 
